@@ -3,8 +3,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 import logging
 
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHANNEL_USERNAME = "@your_channel_username"
+TOKEN = "7637175756:AAF6D5YA8dOX-xBr-xfnuQAPOe2RcuJs3ng"
+CHANNEL_USERNAME = "@ictwithme"
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
